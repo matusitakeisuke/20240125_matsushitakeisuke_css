@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.header-h3 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.header-ul {
+    display: flex;
+    font-weight: bold;
+}
+
+.header-li {
+    margin-left: 30px;
+}
+
+img {
+    float: right;
+    width: 40%;
+    margin-top: 130px;
+}
+
+.text {
+    font-size: 70px;
+    margin-top: 400px;
+}
+
+.box {
+    width: 1000px;
+    height: 150px;
+    background-color: blue;
+}
