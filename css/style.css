@@ -25,21 +25,21 @@ a {
 }
 
 .text {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: 450px;
 }
 
 .box {
-    width: 700px;
-    height: 150px;
+    width: 1000px;
+    height: 270px;
     background-color: blue;
 }
 
 img {
-    position: absolute;
+    position: relative;
     float: right;
-    margin-top: 200px; 
-    left: 500px;
+    margin-top: 200px;
+    right: 0px;
     width: 700px;
     height: 400px;
 }
