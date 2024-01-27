@@ -17,28 +17,29 @@ a {
 .header-ul {
     display: flex;
     font-weight: bold;
+
 }
 
 .header-li {
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 .text {
     font-size: 70px;
-    margin-top: 400px;
+    margin-top: 450px;
 }
 
 .box {
-    position: relative;
-    width: 1000px;
+    width: 700px;
     height: 150px;
     background-color: blue;
 }
 
 img {
     position: absolute;
-    top: 160px;
-    left: 700px;
-    width: 750px;
+    float: right;
+    margin-top: 200px; 
+    left: 500px;
+    width: 700px;
     height: 400px;
 }
