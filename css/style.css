@@ -26,20 +26,19 @@ a {
 
 .text {
     font-size: 50px;
-    margin-top: 450px;
+    margin-top: 500px;
 }
 
 .box {
-    width: 1000px;
-    height: 270px;
+    width: 800px;
+    height: 200px;
     background-color: blue;
 }
 
 img {
     position: relative;
     float: right;
-    margin-top: 200px;
-    right: 0px;
-    width: 700px;
-    height: 400px;
+    margin-top: 190px;
+    width: 55vw;
+    height: 35vw;
 }
